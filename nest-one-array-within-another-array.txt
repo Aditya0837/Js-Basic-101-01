@@ -1,0 +1,2 @@
+// Only change code below this line
+var myArray = [["blabla", 40], ["I don't know", 1000000]];
